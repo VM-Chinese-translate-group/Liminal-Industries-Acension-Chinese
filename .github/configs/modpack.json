@@ -1,15 +1,24 @@
 {
-  "configured": false,
-  "packId": 130,
-  "packName": "FTB StoneBlock 4",
-  "versionPattern": "FTB StoneBlock 4 {version}",
+  "configured": true,
+  "packId": 1389281,
+  "packName": "Liminal Industries Acension",
+  "versionPattern": "Liminal Industries Acension {version}",
   "mcVersion": "1.20.1", 
   "loader": "forge",
   "updateMethod": "cursethebeast",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "paratranz": {
-    "jsonSplits": [],
+    "jsonSplits": [
+      {
+        "path": "kubejs/assets/quests/lang/en_us.json",
+        "groupPatterns": [
+          "^ftbquests\\.chapter\\.([^.]+)\\.",
+          "^ftbquests\\.([^.]+)\\."
+        ],
+        "fallbackGroup": "general"
+      }
+    ],
     "pathRedirects": []
   },
   "attentionList": {
