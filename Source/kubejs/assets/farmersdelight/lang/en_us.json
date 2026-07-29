@@ -1,0 +1,17 @@
+{
+  "farmersdelight.advancement.harvest_straw.desc": "Harvest grass, wheat, or rice with a Knife to collect Straw",
+  "farmersdelight.advancement.place_organic_compost.desc": "Place down some Organic Compost. It composts faster near water and mushrooms!",
+
+  "farmersdelight.advancement.get_fd_seed": "Advanced Crops",
+  "farmersdelight.advancement.get_fd_seed.desc": "Four new crops can be found by brushing dirt and mud.",
+
+  "farmersdelight.jei.info.ham": "A large cut of meat from a Pig.\n\nYou will need something lighter than a sword to cut one...",
+  "farmersdelight.jei.info.dough": "Dough is needed in order to bake bread. It can be made with either eggs or water.",
+  "farmersdelight.jei.info.wild_cabbages": "Can sometimes be found by brushing dirt...",
+  "farmersdelight.jei.info.wild_beetroots": "Can sometimes be found by brushing carpet dust...",
+  "farmersdelight.jei.info.wild_carrots": "Will need to be obtained as a drop",
+  "farmersdelight.jei.info.wild_onions": "Can sometimes be found by brushing mud...",
+  "farmersdelight.jei.info.wild_potatoes": "Will need to be obtained as a drop",
+  "farmersdelight.jei.info.wild_tomatoes": "Can sometimes be found by brushing dirt...",
+  "farmersdelight.jei.info.wild_rice": "Can sometimes be found by brushing mud..."
+}

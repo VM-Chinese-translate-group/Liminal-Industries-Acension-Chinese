@@ -1,0 +1,117 @@
+{
+  "item.endrem.old_eye": "Old Eye",
+  "item.endrem.old_eye.description": "§7§oIt contains perfectly looped time",
+
+  "item.endrem.rogue_eye": "Rogue Eye",
+  "item.endrem.rogue_eye.description": "§7§oAn enderman trapped within a singularity",
+
+  "item.endrem.nether_eye": "Forged Eye",
+  "item.endrem.nether_eye.description": "§7§oExpertly crafted",
+
+  "item.endrem.cold_eye": "Cold Eye",
+  "item.endrem.cold_eye.description": "§7§oZero degrees Kelvin",
+
+  "item.endrem.magical_eye": "Magical Eye",
+  "item.endrem.magical_eye.description": "§7§oMade by only the elves",
+
+  "item.endrem.black_eye": "Black Eye",
+  "item.endrem.black_eye.description": "§7§oEndless space within",
+
+  "item.endrem.lost_eye": "Lost Eye",
+  "item.endrem.lost_eye.description": "§7§oLost to an endless library",
+
+  "item.endrem.wither_eye": "Wither Eye",
+  "item.endrem.wither_eye.description": "§7§oHas witnessed destruction",
+
+  "item.endrem.guardian_eye": "Guardian Eye",
+  "item.endrem.guardian_eye.description": "§7§oIt has seen many warriors drown into the depths of the sea",
+
+  "item.endrem.cursed_eye": "Dragon Eye",
+  "item.endrem.cursed_eye.description": "§7§oEchoes with the roars of a dark dragon",
+
+  "item.endrem.exotic_eye": "Exotic Eye",
+  "item.endrem.exotic_eye.description": "§7§oThose who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying",
+
+  "item.endrem.evil_eye": "Evil Eye",
+  "item.endrem.evil_eye.description": "§7§oA holy talisman said to protect its owner from bad luck",
+
+  "item.endrem.undead_eye": "Undead Eye",
+  "item.endrem.undead_eye.description": "§7§oRemembrance of the past lives of those who live in death",
+
+  "item.endrem.cryptic_eye": "Cryptic Eye",
+  "item.endrem.cryptic_eye.description": "§7§o§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+
+  "item.endrem.corrupted_eye": "Corrupted Eye",
+  "item.endrem.corrupted_eye.description": "§7§oThe eye of a greedy king that faded in solitude; legend says it will bring infinite fortune to its owner",
+
+  "item.endrem.witch_eye": "Witch Eye",
+  "item.endrem.witch_eye.description": "§7§oThis pupil is believed to have seen the ancient brewing recipes that were lost in time.",
+  "item.endrem.witch_pupil": "Witch Pupil",
+
+  "item.endrem.undead_soul": "Undead Soul",
+
+  "block.endrem.ancient_portal_frame": "Ancient Portal Frame",
+
+  "block.endrem.ender_eye.throw_warning": "This eye doesn't know where to go",
+  "block.endrem.ender_eye.use_warning": "This eye doesn't want to be used",
+  "block.endrem.custom_eye.place": "This eye can't be placed",
+  "block.endrem.custom_eye.frame_has_eye": "This frame already has an eye",
+  "block.endrem.custom_eye.broken": "This portal is not built properly",
+
+
+  "itemGroup.endrem.endrem_tab": "End Remastered",
+
+  "block.portal_open_sound": "Portal Opening",
+  "block.portal_open_sound.sub": "Portal Opening",
+
+  "advancements.main.root.title": "The Beginning of an Escape",
+  "advancements.main.root.description": "Obtain your First Eye",
+
+  "advancements.main.old_eye.title": "Time Dilation",
+  "advancements.main.old_eye.description": "Create an Old Eye",
+
+  "advancements.main.rogue_eye.title": "To the Void",
+  "advancements.main.rogue_eye.description": "Create a Rogue Eye",
+
+  "advancements.main.nether_eye.title": "A Thriving Workshop",
+  "advancements.main.nether_eye.description": "Assemble a Forged Eye",
+
+  "advancements.main.cold_eye.title": "Absolute Zero",
+  "advancements.main.cold_eye.description": "Create a Cold Eye",
+
+  "advancements.main.corrupted_eye.title": "Selfish Ambitions",
+  "advancements.main.corrupted_eye.description": "Cheat in a Corrupted Eye",
+
+  "advancements.main.magical_eye.title": "Fallen Sorcerer",
+  "advancements.main.magical_eye.description": "Trade for a Magical Eye",
+
+  "advancements.main.black_eye.title": "Intentional Collapse",
+  "advancements.main.black_eye.description": "Create a Black Eye",
+
+  "advancements.main.lost_eye.title": "Bookshelf Explorer",
+  "advancements.main.lost_eye.description": "Find a Lost Eye",
+
+  "advancements.main.wither_eye.title": "Wither You Want It Or Not",
+  "advancements.main.wither_eye.description": "Obtain a Wither Eye",
+
+  "advancements.main.guardian_eye.title": "Who's Guarding The Temple Now?",
+  "advancements.main.guardian_eye.description": "Cheat in a Guardian Eye",
+
+  "advancements.main.cursed_eye.title": "Draconic Creation",
+  "advancements.main.cursed_eye.description": "Create a Cursed Eye",
+
+  "advancements.main.witch_eye.title": "Trick-or-Treat?",
+  "advancements.main.witch_eye.description": "Cheat in a Witch Eye",
+
+  "advancements.main.evil_eye.title": "A Real Blessing",
+  "advancements.main.evil_eye.description": "Create an Evil Eye",
+
+  "advancements.main.exotic_eye.title": "Expert Swimmer",
+  "advancements.main.exotic_eye.description": "Find an Exotic Eye",
+
+  "advancements.main.undead_eye.title": "A Worthy Sacrifice",
+  "advancements.main.undead_eye.description": "Obtain an Undead Eye",
+
+  "advancements.main.cryptic_eye.title": "Patience Is The Road To Wisdom",
+  "advancements.main.cryptic_eye.description": "Create a Cryptic Eye"
+}
