@@ -11,7 +11,7 @@
   "paratranz": {
     "jsonSplits": [
       {
-        "path": "kubejs/assets/quests/lang/en_us.json",
+        "path": "kubejs/assets/quest/lang/en_us.json",
         "groupPatterns": [
           "^ftbquests\\.chapter\\.([^.]+)\\.",
           "^ftbquests\\.([^.]+)\\."
